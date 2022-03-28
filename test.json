@@ -16,8 +16,18 @@
                 "text": "točenje"
             }
         ],
-        "crop": null,
-        "focus": null,
+        "crop": {
+            "w": 100,
+            "h": 100,
+            "x": 0,
+            "x2": 100,
+            "y": 0,
+            "y2": 100
+        },
+        "focus": {
+            "x": 66,
+            "y": 48
+        },
         "version": "622707d85db1e",
         "md5": "476a251a82a63ad7c6e1c7685eead1bf",
         "created": "2022-03-08 08:35:23",

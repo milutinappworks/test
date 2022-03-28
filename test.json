@@ -1,0 +1,60 @@
+[
+    {
+        "id": "1339954",
+        "filename": "476a251a82a63ad7c6e1c7685eead1bf.jpeg",
+        "title": "avto, gorivo, točenje.jpg",
+        "description": "\/",
+        "author": "Profimedia",
+        "tags": [
+            {
+                "text": "gorivo"
+            },
+            {
+                "text": "avto"
+            },
+            {
+                "text": "točenje"
+            }
+        ],
+        "crop": null,
+        "focus": null,
+        "version": "622707d85db1e",
+        "md5": "476a251a82a63ad7c6e1c7685eead1bf",
+        "created": "2022-03-08 08:35:23",
+        "updated": "2022-03-08 08:38:00",
+        "resource": "svet24",
+        "source_url": "\/\/cdnm.m24.si\/public\/images\/2022\/03\/08\/476a251a82a63ad7c6e1c7685eead1bf.jpeg",
+        "linked": {
+            "articles": 1
+        }
+    },
+    {
+        "id": "1339933",
+        "filename": "fd80ddfec26fbef59bdcd496f884afaf.jpeg",
+        "title": "des-moines, streljanje, srednja-šola",
+        "description": "Steljanje na območju srednje šole v Des Moinesu.",
+        "author": "Profimedia",
+        "tags": [
+            {
+                "text": "des-moines"
+            },
+            {
+                "text": "streljanje"
+            },
+            {
+                "text": "srednja-šola"
+            }
+        ],
+        "crop": null,
+        "focus": null,
+        "version": "622704ba28e7c",
+        "md5": "fd80ddfec26fbef59bdcd496f884afaf",
+        "created": "2022-03-08 08:24:03",
+        "updated": "2022-03-08 08:24:42",
+        "resource": "svet24",
+        "source_url": "\/\/cdnm.m24.si\/public\/images\/2022\/03\/08\/fd80ddfec26fbef59bdcd496f884afaf.jpeg",
+        "linked": {
+            "articles": 1
+        }
+    }
+]

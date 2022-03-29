@@ -66,5 +66,31 @@
         "linked": {
             "articles": 1
         }
+    },
+    {
+        "id": "1339921",
+        "filename": "9393df070d74cf1acffdf16e28d305f5.jpeg",
+        "title": "Dizzee Rascal, Dylan Mills, fotoaparat",
+        "description": "Fotoaparat v kosih",
+        "author": "Profimedia",
+        "tags": [
+            {
+                "text": "dizzee-rascal"
+            },
+            {
+                "text": "dylan-mills"
+            }
+        ],
+        "crop": null,
+        "focus": null,
+        "version": "6226fe5c9535e",
+        "md5": "9393df070d74cf1acffdf16e28d305f5",
+        "created": "2022-03-08 07:56:57",
+        "updated": "2022-03-08 07:57:32",
+        "resource": "svet24",
+        "source_url": "\/\/cdnm.m24.si\/public\/images\/2022\/03\/08\/9393df070d74cf1acffdf16e28d305f5.jpeg",
+        "linked": {
+            "articles": 1
+        }
     }
 ]
